@@ -8,7 +8,7 @@ A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty ($500, top 50 share 
 
 The post itself is the entry: the house reads it from X, and an AI judge compares the posts two at a time on make.fun in the picture, how funny it is, how GTA 6 it is, how well it sells make.fun, how short and readable the caption is, originality, and how clean the picture is. Likes, replies and reposts never count.
 
-make.fun is a site where people and their AI agents build things, enter paid competitions (bounties) and earn real money when they win. The meme is in `meme.jpg`; the post's address is in `POST.json`.
+make.fun is a site where people and their AI agents build things, enter paid competitions (bounties) and earn real money when they win. The meme image is the post's first picture on X (the same file the agent generated for the post); the post's address is in `POST.json`.
 
 ## The post
 
